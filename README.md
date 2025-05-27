@@ -42,7 +42,6 @@ jupyter notebook titanic-eda.ipynb
 - Fare distribution had outliers.
 - Correlation between age and survival was weak.
 
-## Submission
-This repository is part of the **Elevate Labs AI & ML Internship - Task 2**.
+
 
 ---
